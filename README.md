@@ -47,10 +47,6 @@ If you want to contribute to this project, please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to [Tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI framework.
